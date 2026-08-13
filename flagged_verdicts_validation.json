@@ -1,0 +1,2962 @@
+{
+  "source": "major",
+  "university": "Texas A&M University",
+  "degree": "Computer Science",
+  "tier": "estimate",
+  "overview": {
+    "automating": 0,
+    "transforming": 178,
+    "untouched": 127,
+    "summary": "Most skills in this degree are transforming: you will do them alongside AI. The key is learning the augmented version. This is a now-cast based on current AI usage data, not a prediction of the future."
+  },
+  "courses": [
+    {
+      "code": "CSCE 111",
+      "title": "Introduction to Computer Science Concepts and Programming",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Persuasion",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Genuine persuasion requires human connection and trust that AI cannot replicate. Invest in this skill.",
+          "source": "O*NET skill: Persuasion (2.B.1.c) | AEI task presence: 0.27% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Service Orientation",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Understanding and serving others' needs requires empathy AI cannot genuinely offer.",
+          "source": "O*NET skill: Service Orientation (2.B.1.f) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 120",
+      "title": "Program Design and Concepts",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 121",
+      "title": "Introduction to Program Design and Concepts",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Persuasion",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Genuine persuasion requires human connection and trust that AI cannot replicate. Invest in this skill.",
+          "source": "O*NET skill: Persuasion (2.B.1.c) | AEI task presence: 0.27% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Service Orientation",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Understanding and serving others' needs requires empathy AI cannot genuinely offer.",
+          "source": "O*NET skill: Service Orientation (2.B.1.f) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 181",
+      "title": "Introduction to Computing",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Persuasion",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Genuine persuasion requires human connection and trust that AI cannot replicate. Invest in this skill.",
+          "source": "O*NET skill: Persuasion (2.B.1.c) | AEI task presence: 0.27% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Service Orientation",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Understanding and serving others' needs requires empathy AI cannot genuinely offer.",
+          "source": "O*NET skill: Service Orientation (2.B.1.f) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 201",
+      "title": "Fundamentals of Cybersecurity",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Instructing",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Teaching and mentoring require adapting to a learner's needs in real time \u2014 a human strength.",
+          "source": "O*NET skill: Instructing (2.B.1.e) | AEI task presence: 6.10% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Learning Strategies",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can personalize learning paths. Focus on metacognition and applying learned concepts in novel situations.",
+          "source": "O*NET skill: Learning Strategies (2.A.2.c) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 206",
+      "title": "Structured Programming in C",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 221",
+      "title": "Data Structures and Algorithms",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 222",
+      "title": "Discrete Structures for Computing",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Mathematics",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can solve and explain mathematical problems. Focus on formulating problems correctly and interpreting results.",
+          "source": "O*NET skill: Mathematics (2.A.1.e) | AEI task presence: 4.09% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Instructing",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Teaching and mentoring require adapting to a learner's needs in real time \u2014 a human strength.",
+          "source": "O*NET skill: Instructing (2.B.1.e) | AEI task presence: 6.10% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 231",
+      "title": "Computing Ethics",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 285",
+      "title": "Directed Studies",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Instructing",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Teaching and mentoring require adapting to a learner's needs in real time \u2014 a human strength.",
+          "source": "O*NET skill: Instructing (2.B.1.e) | AEI task presence: 6.10% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 289",
+      "title": "Special Topics in...",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 291",
+      "title": "Research",
+      "validation_status": "flagged",
+      "error_flags": [
+        {
+          "type": "SEMINAR_MISSING_SPEAKING",
+          "details": "Failed structural schema: SEMINAR_MISSING_SPEAKING"
+        }
+      ],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 305",
+      "title": "Computational Data Science",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 310",
+      "title": "Database Systems",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 312",
+      "title": "Computer Organization",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Systems Analysis",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps document and model systems. Focus on understanding business context and validating system behavior.",
+          "source": "O*NET skill: Systems Analysis (2.B.4.g) | AEI task presence: 4.99% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 313",
+      "title": "Introduction to Computer Systems",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Persuasion",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Genuine persuasion requires human connection and trust that AI cannot replicate. Invest in this skill.",
+          "source": "O*NET skill: Persuasion (2.B.1.c) | AEI task presence: 0.27% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Service Orientation",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Understanding and serving others' needs requires empathy AI cannot genuinely offer.",
+          "source": "O*NET skill: Service Orientation (2.B.1.f) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 314",
+      "title": "Programming Languages",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Instructing",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Teaching and mentoring require adapting to a learner's needs in real time \u2014 a human strength.",
+          "source": "O*NET skill: Instructing (2.B.1.e) | AEI task presence: 6.10% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Learning Strategies",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can personalize learning paths. Focus on metacognition and applying learned concepts in novel situations.",
+          "source": "O*NET skill: Learning Strategies (2.A.2.c) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 315",
+      "title": "Programming Studio",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Coordination",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Coordinating people and teams relies on context and relationships AI doesn't have.",
+          "source": "O*NET skill: Coordination (2.B.1.b) | AEI task presence: 2.11% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 320",
+      "title": "Principles of Data Science",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 325",
+      "title": "Foundations of Artificial Intelligence and Machine Learning",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 331",
+      "title": "Foundations of Software Engineering",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Programming",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "Practice writing and reviewing code with AI assistance, not just typing it yourself. The skill is now directing and validating AI-generated code.",
+          "source": "O*NET skill: Programming (2.B.3.e) | AEI task presence: 33.13% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 350",
+      "title": "Computer Architecture and Design",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Systems Analysis",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps document and model systems. Focus on understanding business context and validating system behavior.",
+          "source": "O*NET skill: Systems Analysis (2.B.4.g) | AEI task presence: 4.99% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 399",
+      "title": "High-Impact Experience",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 410",
+      "title": "Operating Systems",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Systems Analysis",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps document and model systems. Focus on understanding business context and validating system behavior.",
+          "source": "O*NET skill: Systems Analysis (2.B.4.g) | AEI task presence: 4.99% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 411",
+      "title": "Design and Analysis of Algorithms",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 412",
+      "title": "Cloud Computing",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 413",
+      "title": "Software Security",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Monitoring",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "You will do this skill alongside AI. Learn the augmented version: use AI as a collaborative partner while deepening your own judgment.",
+          "source": "O*NET skill: Monitoring (2.A.2.d) | AEI task presence: 3.48% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 416",
+      "title": "Hardware Design Verification",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 420",
+      "title": "Artificial Intelligence",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 429",
+      "title": "Software Development, Globalization and Culture Abroad",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Service Orientation",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Understanding and serving others' needs requires empathy AI cannot genuinely offer.",
+          "source": "O*NET skill: Service Orientation (2.B.1.f) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 430",
+      "title": "Problem Solving Programming Strategies",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Coordination",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Coordinating people and teams relies on context and relationships AI doesn't have.",
+          "source": "O*NET skill: Coordination (2.B.1.b) | AEI task presence: 2.11% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 431",
+      "title": "Software Engineering",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Programming",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "Practice writing and reviewing code with AI assistance, not just typing it yourself. The skill is now directing and validating AI-generated code.",
+          "source": "O*NET skill: Programming (2.B.3.e) | AEI task presence: 33.13% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 432",
+      "title": "Accessible Computing",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Monitoring",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "You will do this skill alongside AI. Learn the augmented version: use AI as a collaborative partner while deepening your own judgment.",
+          "source": "O*NET skill: Monitoring (2.A.2.d) | AEI task presence: 3.48% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 433",
+      "title": "Formal Languages and Automata",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Instructing",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Teaching and mentoring require adapting to a learner's needs in real time \u2014 a human strength.",
+          "source": "O*NET skill: Instructing (2.B.1.e) | AEI task presence: 6.10% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Learning Strategies",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can personalize learning paths. Focus on metacognition and applying learned concepts in novel situations.",
+          "source": "O*NET skill: Learning Strategies (2.A.2.c) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 435",
+      "title": "Parallel Computing",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Operations Monitoring",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Real-time monitoring in physical environments requires embodied awareness.",
+          "source": "O*NET skill: Operations Monitoring (2.B.3.g) | AEI task presence: 7.18% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Monitoring",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "You will do this skill alongside AI. Learn the augmented version: use AI as a collaborative partner while deepening your own judgment.",
+          "source": "O*NET skill: Monitoring (2.A.2.d) | AEI task presence: 3.48% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Operation and Control",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Physical operation and control tasks require real-world awareness AI lacks.",
+          "source": "O*NET skill: Operation and Control (2.B.3.h) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 436",
+      "title": "Computer-Human Interaction",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 438",
+      "title": "Distributed Systems",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Monitoring",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "You will do this skill alongside AI. Learn the augmented version: use AI as a collaborative partner while deepening your own judgment.",
+          "source": "O*NET skill: Monitoring (2.A.2.d) | AEI task presence: 3.48% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 440",
+      "title": "Quantum Algorithms",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 441",
+      "title": "Computer Graphics",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 442",
+      "title": "Scientific Programming",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 443",
+      "title": "Game Development",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Programming",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "Practice writing and reviewing code with AI assistance, not just typing it yourself. The skill is now directing and validating AI-generated code.",
+          "source": "O*NET skill: Programming (2.B.3.e) | AEI task presence: 33.13% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 444",
+      "title": "Structures of Interactive Information",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Coordination",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Coordinating people and teams relies on context and relationships AI doesn't have.",
+          "source": "O*NET skill: Coordination (2.B.1.b) | AEI task presence: 2.11% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Time Management",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Prioritizing and managing your own focus in context-rich environments remains your responsibility.",
+          "source": "O*NET skill: Time Management (2.B.5.a) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 445",
+      "title": "Computers and New Media",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 446",
+      "title": "Virtual Reality",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 448",
+      "title": "Computational Photography",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Operations Monitoring",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Real-time monitoring in physical environments requires embodied awareness.",
+          "source": "O*NET skill: Operations Monitoring (2.B.3.g) | AEI task presence: 7.18% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Quality Control Analysis",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI assists with inspection and testing. Focus on setting quality standards and investigating root causes.",
+          "source": "O*NET skill: Quality Control Analysis (2.B.3.m) | AEI task presence: 5.39% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Service Orientation",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Understanding and serving others' needs requires empathy AI cannot genuinely offer.",
+          "source": "O*NET skill: Service Orientation (2.B.1.f) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 449",
+      "title": "Applied Cryptography",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Mathematics",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can solve and explain mathematical problems. Focus on formulating problems correctly and interpreting results.",
+          "source": "O*NET skill: Mathematics (2.A.1.e) | AEI task presence: 4.09% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Instructing",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Teaching and mentoring require adapting to a learner's needs in real time \u2014 a human strength.",
+          "source": "O*NET skill: Instructing (2.B.1.e) | AEI task presence: 6.10% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 450",
+      "title": "Computer Animation",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 451",
+      "title": "Software Reverse Engineering",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Monitoring",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "You will do this skill alongside AI. Learn the augmented version: use AI as a collaborative partner while deepening your own judgment.",
+          "source": "O*NET skill: Monitoring (2.A.2.d) | AEI task presence: 3.48% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 452",
+      "title": "Robotics and Spatial Intelligence",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Monitoring",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "You will do this skill alongside AI. Learn the augmented version: use AI as a collaborative partner while deepening your own judgment.",
+          "source": "O*NET skill: Monitoring (2.A.2.d) | AEI task presence: 3.48% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 462",
+      "title": "Microcomputer Systems",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 463",
+      "title": "Computer Networks",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Programming",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "Practice writing and reviewing code with AI assistance, not just typing it yourself. The skill is now directing and validating AI-generated code.",
+          "source": "O*NET skill: Programming (2.B.3.e) | AEI task presence: 33.13% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Systems Evaluation",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can measure and benchmark. Focus on defining the right metrics and interpreting what they mean.",
+          "source": "O*NET skill: Systems Evaluation (2.B.4.h) | AEI task presence: 18.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 464",
+      "title": "Wireless and Mobile Systems",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 465",
+      "title": "Computer and Network Security",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Programming",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "Practice writing and reviewing code with AI assistance, not just typing it yourself. The skill is now directing and validating AI-generated code.",
+          "source": "O*NET skill: Programming (2.B.3.e) | AEI task presence: 33.13% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Systems Evaluation",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can measure and benchmark. Focus on defining the right metrics and interpreting what they mean.",
+          "source": "O*NET skill: Systems Evaluation (2.B.4.h) | AEI task presence: 18.29% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 469",
+      "title": "Advanced Computer Architecture",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Instructing",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Teaching and mentoring require adapting to a learner's needs in real time \u2014 a human strength.",
+          "source": "O*NET skill: Instructing (2.B.1.e) | AEI task presence: 6.10% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Learning Strategies",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can personalize learning paths. Focus on metacognition and applying learned concepts in novel situations.",
+          "source": "O*NET skill: Learning Strategies (2.A.2.c) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 471",
+      "title": "Natural Language Processing",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Learning Strategies",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can personalize learning paths. Focus on metacognition and applying learned concepts in novel situations.",
+          "source": "O*NET skill: Learning Strategies (2.A.2.c) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 481",
+      "title": "Seminar",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 482",
+      "title": "Senior Capstone Design",
+      "validation_status": "flagged",
+      "error_flags": [
+        {
+          "type": "SEMINAR_MISSING_ACTIVE_LISTENING",
+          "details": "Failed structural schema: SEMINAR_MISSING_ACTIVE_LISTENING"
+        }
+      ],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Judgment and Decision Making",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI provides data and options. Your judgment in weighing trade-offs and making final decisions is the value you add.",
+          "source": "O*NET skill: Judgment and Decision Making (2.B.4.e) | AEI task presence: 9.80% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 483",
+      "title": "Computer Systems Design",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Systems Analysis",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps document and model systems. Focus on understanding business context and validating system behavior.",
+          "source": "O*NET skill: Systems Analysis (2.B.4.g) | AEI task presence: 4.99% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 485",
+      "title": "Directed Studies",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Instructing",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Teaching and mentoring require adapting to a learner's needs in real time \u2014 a human strength.",
+          "source": "O*NET skill: Instructing (2.B.1.e) | AEI task presence: 6.10% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Learning",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can curate and explain information. Focus on asking the right questions and connecting insights across domains.",
+          "source": "O*NET skill: Active Learning (2.A.2.b) | AEI task presence: 6.24% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 489",
+      "title": "Special Topics in...",
+      "validation_status": "passed",
+      "error_flags": [],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Speaking",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Public speaking and real-time communication remain distinctly human strengths.",
+          "source": "O*NET skill: Speaking (2.A.1.d) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Social Perceptiveness",
+          "verdict": "Untouched",
+          "confidence": "high",
+          "guidance": "Reading people and situations is deeply human. This skill becomes more valuable as AI handles technical tasks.",
+          "source": "O*NET skill: Social Perceptiveness (2.B.1.a) | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    },
+    {
+      "code": "CSCE 491",
+      "title": "Research",
+      "validation_status": "flagged",
+      "error_flags": [
+        {
+          "type": "SEMINAR_MISSING_SPEAKING",
+          "details": "Failed structural schema: SEMINAR_MISSING_SPEAKING"
+        }
+      ],
+      "review_status": {
+        "is_reviewed": false,
+        "manual_action": "unreviewed",
+        "reviewer_notes": ""
+      },
+      "skills": [
+        {
+          "name": "Reading Comprehension",
+          "verdict": "Transforming",
+          "confidence": "medium",
+          "guidance": "AI can summarize and extract information. Focus on critical interpretation and applying insights.",
+          "source": "O*NET skill: Reading Comprehension (2.A.1.a) | AEI task presence: 9.29% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Active Listening",
+          "verdict": "Untouched",
+          "confidence": "medium",
+          "guidance": "Deep listening and understanding subtext are skills AI cannot replicate.",
+          "source": "O*NET skill: Active Listening (2.A.1.b) | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Critical Thinking",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI can process and summarize information, but your critical analysis and reasoning remain essential. Use AI to explore more angles faster.",
+          "source": "O*NET skill: Critical Thinking (2.A.2.a) | AEI task presence: 23.93% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Writing",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI handles drafts and editing. Focus on voice, argument structure, and tailoring content for specific audiences.",
+          "source": "O*NET skill: Writing (2.A.1.c) | AEI task presence: 22.81% of conversations | Anthropic Economic Index (CC-BY)"
+        },
+        {
+          "name": "Complex Problem Solving",
+          "verdict": "Transforming",
+          "confidence": "high",
+          "guidance": "AI helps model and explore solutions. Focus on defining the right problem and validating AI-proposed approaches.",
+          "source": "O*NET skill: Complex Problem Solving (2.B.2.i) | AEI task presence: 6.66% of conversations | Anthropic Economic Index (CC-BY)"
+        }
+      ]
+    }
+  ],
+  "validation_summary": {
+    "total_courses_processed": 61,
+    "courses_flagged_for_manual_review": 3,
+    "courses_passed_automated_review": 58
+  }
+}
